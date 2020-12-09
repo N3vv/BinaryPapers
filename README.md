@@ -123,11 +123,6 @@
 
 - 评估不同反汇编算法以及启发式规则对二进制代码反汇编的影响
 
-![image-20201203152237507](file:///Users/nevv/Documents/GDTGO/Research/Images/image-20201203152237507.png?lastModify=1607509189)
-
-- 算法、启发式
-
-
 
 ### S&P-2020 Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware
 
