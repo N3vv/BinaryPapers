@@ -82,7 +82,7 @@
 
 
 
-###NDSS-2019  Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs
+### NDSS-2019  Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs
 
 > https://www.ndss-symposium.org/ndss-paper/neural-machine-translation-inspired-binary-code-similarity-comparison-beyond-function-pairs/
 
@@ -93,7 +93,7 @@
 
 
 
-###  NDSS-2018 IOTFUZZER:Discovering Memory Corruptions in IoT Through App-based Fuzzing
+### NDSS-2018 IOTFUZZER:Discovering Memory Corruptions in IoT Through App-based Fuzzing
 
 > https://blog.csdn.net/qq_32505207/article/details/104389266
 
