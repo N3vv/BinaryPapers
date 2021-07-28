@@ -2,6 +2,17 @@
 
 
 
+
+
+### USENIX-2021 Sharing More and Checking Less:
+ Leveraging Common Input Keywords to Detect Bugs in Embedded Systems
+
+> https://www.usenix.org/system/files/sec21fall-chen-libo.pdf
+
+- 针对固件中前端和后端server服务器交互，实现了一种静态污点分析工具，可以自动化识别前端和输入相关的关键字并在后端对应到其处理程序，以较低和开销（和当前此类最先进的工具karonte相比）进行污点分析，发现了33个bug，其中33个获得编号
+
+
+
 ### USENIX-2020 HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation
 
 > https://www.usenix.org/conference/usenixsecurity20/presentation/clements
@@ -195,4 +206,4 @@
 - 家用、办公路由
 - 内存破坏漏洞、com命令注入漏洞、跨站脚本攻击(XSS)漏洞和信息泄露漏洞
 - 直接测试物理设备，模拟电源开关重启卡死设备
-- 设计了六种突变规则和三种监测机制。当模糊一个给定类型的漏洞时，我们选择适当的变异规则和监控机制
+- 设计了六种变异规则和三种监测机制。当模糊测试一个给定类型的漏洞时，选择适当的变异规则和监控机制
