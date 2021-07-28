@@ -1,11 +1,6 @@
 ## 二进制相关论文收集
 
-
-
-
-
-### USENIX-2021 Sharing More and Checking Less:
- Leveraging Common Input Keywords to Detect Bugs in Embedded Systems
+### USENIX-2021 Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems
 
 > https://www.usenix.org/system/files/sec21fall-chen-libo.pdf
 
